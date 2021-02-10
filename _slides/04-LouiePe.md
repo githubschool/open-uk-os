@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Hello! Welcome to LouiePe's slide deck!"
 ---
 
 Riddle me this: why is GitHub so hard for me!
