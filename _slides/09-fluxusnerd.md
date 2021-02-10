@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+OctoCat+Coffee=Good :coffee:
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
