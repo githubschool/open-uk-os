@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+What a cool picture! My children will love this.
 
 ![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
 {: .center}
